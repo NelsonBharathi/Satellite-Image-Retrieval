@@ -1,0 +1,371 @@
+query,intent,theme,place
+temporal view of urban in Aminjikarai 2018 to 2023,temporal_visualize,urban,Aminjikarai
+animate urban in Aminjikarai from 2015 to 2020,temporal_visualize,urban,Aminjikarai
+difference in urban for Aminjikarai 2018 2023,analytical,urban,Aminjikarai
+urban change in Aminjikarai 2020 2025,analytical,urban,Aminjikarai
+what urban exists in Aminjikarai,descriptive,urban,Aminjikarai
+list vegetation in Guindy,descriptive,vegetation,Guindy
+compare water in Guindy between 2015 and 2020,analytical,water,Guindy
+water change in Guindy 2020 2025,analytical,water,Guindy
+display urban in Guindy for 2020,visualize,urban,Guindy
+difference in urban for Guindy 2018 2023,analytical,urban,Guindy
+describe vegetation coverage in Madhavaram,descriptive,vegetation,Madhavaram
+describe water coverage in Madhavaram,descriptive,water,Madhavaram
+describe urban coverage in Madhavaram,descriptive,urban,Madhavaram
+show vegetation cover of Madhavaram from 2010 to 2015,temporal_visualize,vegetation,Madhavaram
+compare vegetation in Madhavaram between 2015 and 2020,analytical,vegetation,Madhavaram
+describe water coverage in Mylapore,descriptive,water,Mylapore
+visualize urban coverage in Mylapore 2022,visualize,urban,Mylapore
+show urban cover of Mylapore from 2010 to 2015,temporal_visualize,urban,Mylapore
+compare vegetation in Mylapore between 2015 and 2020,analytical,vegetation,Mylapore
+show mask for vegetation in Mylapore 2021,visualize,vegetation,Mylapore
+show urban cover of Perambur from 2010 to 2015,temporal_visualize,urban,Perambur
+show vegetation cover of Perambur from 2010 to 2015,temporal_visualize,vegetation,Perambur
+show urban cover of Perambur from 2010 to 2015,temporal_visualize,urban,Perambur
+display urban in Perambur for 2020,visualize,urban,Perambur
+compare water in Perambur between 2015 and 2020,analytical,water,Perambur
+show urban cover of Purasawalkam from 2010 to 2015,temporal_visualize,urban,Purasawalkam
+water change in Purasawalkam 2020 2025,analytical,water,Purasawalkam
+water change in Purasawalkam 2020 2025,analytical,water,Purasawalkam
+list water in Purasawalkam,descriptive,water,Purasawalkam
+describe water coverage in Purasawalkam,descriptive,water,Purasawalkam
+describe urban coverage in Tiruvottiyur,descriptive,urban,Tiruvottiyur
+animate urban in Tiruvottiyur from 2015 to 2020,temporal_visualize,urban,Tiruvottiyur
+vegetation change in Tiruvottiyur 2020 2025,analytical,vegetation,Tiruvottiyur
+show urban cover of Tiruvottiyur from 2010 to 2015,temporal_visualize,urban,Tiruvottiyur
+describe water coverage in Tiruvottiyur,descriptive,water,Tiruvottiyur
+difference in vegetation for Tondiarpet 2018 2023,analytical,vegetation,Tondiarpet
+animate vegetation in Tondiarpet from 2015 to 2020,temporal_visualize,vegetation,Tondiarpet
+what urban exists in Tondiarpet,descriptive,urban,Tondiarpet
+show urban cover of Tondiarpet from 2010 to 2015,temporal_visualize,urban,Tondiarpet
+temporal view of urban in Tondiarpet 2018 to 2023,temporal_visualize,urban,Tondiarpet
+visualize urban coverage in Velachery 2022,visualize,urban,Velachery
+list vegetation in Velachery,descriptive,vegetation,Velachery
+describe urban coverage in Velachery,descriptive,urban,Velachery
+compare water in Velachery between 2015 and 2020,analytical,water,Velachery
+list water in Velachery,descriptive,water,Velachery
+animate urban in Aminjikarai_Chinnakudal from 2015 to 2020,temporal_visualize,urban,Aminjikarai_Chinnakudal
+compare urban in Aminjikarai_Chinnakudal between 2015 and 2020,analytical,urban,Aminjikarai_Chinnakudal
+display vegetation in Aminjikarai_Chinnakudal for 2020,visualize,vegetation,Aminjikarai_Chinnakudal
+what water exists in Aminjikarai_Chinnakudal,descriptive,water,Aminjikarai_Chinnakudal
+display vegetation in Aminjikarai_Chinnakudal for 2020,visualize,vegetation,Aminjikarai_Chinnakudal
+temporal view of urban in Aminjikarai_Mullam 2018 to 2023,temporal_visualize,urban,Aminjikarai_Mullam
+list vegetation in Aminjikarai_Mullam,descriptive,vegetation,Aminjikarai_Mullam
+urban change in Aminjikarai_Mullam 2020 2025,analytical,urban,Aminjikarai_Mullam
+compare water in Aminjikarai_Mullam between 2015 and 2020,analytical,water,Aminjikarai_Mullam
+urban change in Aminjikarai_Mullam 2020 2025,analytical,urban,Aminjikarai_Mullam
+describe water coverage in Aminjikarai_Siruvallur,descriptive,water,Aminjikarai_Siruvallur
+urban change in Aminjikarai_Siruvallur 2020 2025,analytical,urban,Aminjikarai_Siruvallur
+what water exists in Aminjikarai_Siruvallur,descriptive,water,Aminjikarai_Siruvallur
+visualize vegetation coverage in Aminjikarai_Siruvallur 2022,visualize,vegetation,Aminjikarai_Siruvallur
+list water in Aminjikarai_Siruvallur,descriptive,water,Aminjikarai_Siruvallur
+display urban in Aminjikarai_Thirumangalam for 2020,visualize,urban,Aminjikarai_Thirumangalam
+list vegetation in Aminjikarai_Thirumangalam,descriptive,vegetation,Aminjikarai_Thirumangalam
+what water exists in Aminjikarai_Thirumangalam,descriptive,water,Aminjikarai_Thirumangalam
+compare water in Aminjikarai_Thirumangalam between 2015 and 2020,analytical,water,Aminjikarai_Thirumangalam
+visualize urban coverage in Aminjikarai_Thirumangalam 2022,visualize,urban,Aminjikarai_Thirumangalam
+what urban exists in Aminjikarai_Villivakkam,descriptive,urban,Aminjikarai_Villivakkam
+display water in Aminjikarai_Villivakkam for 2020,visualize,water,Aminjikarai_Villivakkam
+show mask for vegetation in Aminjikarai_Villivakkam 2021,visualize,vegetation,Aminjikarai_Villivakkam
+compare water in Aminjikarai_Villivakkam between 2015 and 2020,analytical,water,Aminjikarai_Villivakkam
+temporal view of water in Aminjikarai_Villivakkam 2018 to 2023,temporal_visualize,water,Aminjikarai_Villivakkam
+visualize urban coverage in Guindy_Adyar_(Part_I) 2022,visualize,urban,Guindy_Adyar_(Part_I)
+difference in urban for Guindy_Adyar_(Part_I) 2018 2023,analytical,urban,Guindy_Adyar_(Part_I)
+visualize water coverage in Guindy_Adyar_(Part_I) 2022,visualize,water,Guindy_Adyar_(Part_I)
+temporal view of vegetation in Guindy_Adyar_(Part_I) 2018 to 2023,temporal_visualize,vegetation,Guindy_Adyar_(Part_I)
+describe water coverage in Guindy_Adyar_(Part_I),descriptive,water,Guindy_Adyar_(Part_I)
+temporal view of urban in Guindy_Adyar_(Part_II) 2018 to 2023,temporal_visualize,urban,Guindy_Adyar_(Part_II)
+display urban in Guindy_Adyar_(Part_II) for 2020,visualize,urban,Guindy_Adyar_(Part_II)
+show mask for water in Guindy_Adyar_(Part_II) 2021,visualize,water,Guindy_Adyar_(Part_II)
+show vegetation cover of Guindy_Adyar_(Part_II) from 2010 to 2015,temporal_visualize,vegetation,Guindy_Adyar_(Part_II)
+temporal view of water in Guindy_Adyar_(Part_II) 2018 to 2023,temporal_visualize,water,Guindy_Adyar_(Part_II)
+difference in urban for Guindy_Alandur 2018 2023,analytical,urban,Guindy_Alandur
+visualize urban coverage in Guindy_Alandur 2022,visualize,urban,Guindy_Alandur
+temporal view of vegetation in Guindy_Alandur 2018 to 2023,temporal_visualize,vegetation,Guindy_Alandur
+what water exists in Guindy_Alandur,descriptive,water,Guindy_Alandur
+what vegetation exists in Guindy_Alandur,descriptive,vegetation,Guindy_Alandur
+show mask for water in Guindy_Ekkatuthangal 2021,visualize,water,Guindy_Ekkatuthangal
+what vegetation exists in Guindy_Ekkatuthangal,descriptive,vegetation,Guindy_Ekkatuthangal
+show mask for vegetation in Guindy_Ekkatuthangal 2021,visualize,vegetation,Guindy_Ekkatuthangal
+list water in Guindy_Ekkatuthangal,descriptive,water,Guindy_Ekkatuthangal
+difference in vegetation for Guindy_Ekkatuthangal 2018 2023,analytical,vegetation,Guindy_Ekkatuthangal
+show mask for urban in Guindy_Govt._Farm 2021,visualize,urban,Guindy_Govt._Farm
+difference in urban for Guindy_Govt._Farm 2018 2023,analytical,urban,Guindy_Govt._Farm
+what vegetation exists in Guindy_Govt._Farm,descriptive,vegetation,Guindy_Govt._Farm
+compare vegetation in Guindy_Govt._Farm between 2015 and 2020,analytical,vegetation,Guindy_Govt._Farm
+urban change in Guindy_Govt._Farm 2020 2025,analytical,urban,Guindy_Govt._Farm
+visualize vegetation coverage in Guindy_Guindy_Park 2022,visualize,vegetation,Guindy_Guindy_Park
+list water in Guindy_Guindy_Park,descriptive,water,Guindy_Guindy_Park
+show mask for urban in Guindy_Guindy_Park 2021,visualize,urban,Guindy_Guindy_Park
+show water cover of Guindy_Guindy_Park from 2010 to 2015,temporal_visualize,water,Guindy_Guindy_Park
+compare water in Guindy_Guindy_Park between 2015 and 2020,analytical,water,Guindy_Guindy_Park
+show mask for urban in Guindy_Kottur 2021,visualize,urban,Guindy_Kottur
+water change in Guindy_Kottur 2020 2025,analytical,water,Guindy_Kottur
+animate urban in Guindy_Kottur from 2015 to 2020,temporal_visualize,urban,Guindy_Kottur
+difference in urban for Guindy_Kottur 2018 2023,analytical,urban,Guindy_Kottur
+compare water in Guindy_Kottur between 2015 and 2020,analytical,water,Guindy_Kottur
+compare water in Guindy_T._Nagar between 2015 and 2020,analytical,water,Guindy_T._Nagar
+show vegetation cover of Guindy_T._Nagar from 2010 to 2015,temporal_visualize,vegetation,Guindy_T._Nagar
+display vegetation in Guindy_T._Nagar for 2020,visualize,vegetation,Guindy_T._Nagar
+describe urban coverage in Guindy_T._Nagar,descriptive,urban,Guindy_T._Nagar
+animate vegetation in Guindy_T._Nagar from 2015 to 2020,temporal_visualize,vegetation,Guindy_T._Nagar
+what water exists in Guindy_Venkatapuram,descriptive,water,Guindy_Venkatapuram
+difference in urban for Guindy_Venkatapuram 2018 2023,analytical,urban,Guindy_Venkatapuram
+animate vegetation in Guindy_Venkatapuram from 2015 to 2020,temporal_visualize,vegetation,Guindy_Venkatapuram
+describe water coverage in Guindy_Venkatapuram,descriptive,water,Guindy_Venkatapuram
+show mask for water in Guindy_Venkatapuram 2021,visualize,water,Guindy_Venkatapuram
+temporal view of vegetation in Madhavaram_Chettimedu 2018 to 2023,temporal_visualize,vegetation,Madhavaram_Chettimedu
+what urban exists in Madhavaram_Chettimedu,descriptive,urban,Madhavaram_Chettimedu
+difference in vegetation for Madhavaram_Chettimedu 2018 2023,analytical,vegetation,Madhavaram_Chettimedu
+compare vegetation in Madhavaram_Chettimedu between 2015 and 2020,analytical,vegetation,Madhavaram_Chettimedu
+show urban cover of Madhavaram_Chettimedu from 2010 to 2015,temporal_visualize,urban,Madhavaram_Chettimedu
+animate vegetation in Madhavaram_Kadhirvedu from 2015 to 2020,temporal_visualize,vegetation,Madhavaram_Kadhirvedu
+show vegetation cover of Madhavaram_Kadhirvedu from 2010 to 2015,temporal_visualize,vegetation,Madhavaram_Kadhirvedu
+list urban in Madhavaram_Kadhirvedu,descriptive,urban,Madhavaram_Kadhirvedu
+water change in Madhavaram_Kadhirvedu 2020 2025,analytical,water,Madhavaram_Kadhirvedu
+list urban in Madhavaram_Kadhirvedu,descriptive,urban,Madhavaram_Kadhirvedu
+visualize vegetation coverage in Madhavaram_Kosapur 2022,visualize,vegetation,Madhavaram_Kosapur
+show water cover of Madhavaram_Kosapur from 2010 to 2015,temporal_visualize,water,Madhavaram_Kosapur
+describe vegetation coverage in Madhavaram_Kosapur,descriptive,vegetation,Madhavaram_Kosapur
+difference in urban for Madhavaram_Kosapur 2018 2023,analytical,urban,Madhavaram_Kosapur
+list vegetation in Madhavaram_Kosapur,descriptive,vegetation,Madhavaram_Kosapur
+animate vegetation in Madhavaram_Manchambakkam from 2015 to 2020,temporal_visualize,vegetation,Madhavaram_Manchambakkam
+what water exists in Madhavaram_Manchambakkam,descriptive,water,Madhavaram_Manchambakkam
+compare water in Madhavaram_Manchambakkam between 2015 and 2020,analytical,water,Madhavaram_Manchambakkam
+show mask for vegetation in Madhavaram_Manchambakkam 2021,visualize,vegetation,Madhavaram_Manchambakkam
+show mask for water in Madhavaram_Manchambakkam 2021,visualize,water,Madhavaram_Manchambakkam
+show mask for urban in Madhavaram_Mathur 2021,visualize,urban,Madhavaram_Mathur
+visualize vegetation coverage in Madhavaram_Mathur 2022,visualize,vegetation,Madhavaram_Mathur
+vegetation change in Madhavaram_Mathur 2020 2025,analytical,vegetation,Madhavaram_Mathur
+what vegetation exists in Madhavaram_Mathur,descriptive,vegetation,Madhavaram_Mathur
+what water exists in Madhavaram_Mathur,descriptive,water,Madhavaram_Mathur
+animate vegetation in Madhavaram_Puthagaram from 2015 to 2020,temporal_visualize,vegetation,Madhavaram_Puthagaram
+animate vegetation in Madhavaram_Puthagaram from 2015 to 2020,temporal_visualize,vegetation,Madhavaram_Puthagaram
+compare urban in Madhavaram_Puthagaram between 2015 and 2020,analytical,urban,Madhavaram_Puthagaram
+display vegetation in Madhavaram_Puthagaram for 2020,visualize,vegetation,Madhavaram_Puthagaram
+show vegetation cover of Madhavaram_Puthagaram from 2010 to 2015,temporal_visualize,vegetation,Madhavaram_Puthagaram
+describe urban coverage in Madhavaram_Puzhal,descriptive,urban,Madhavaram_Puzhal
+show mask for vegetation in Madhavaram_Puzhal 2021,visualize,vegetation,Madhavaram_Puzhal
+describe water coverage in Madhavaram_Puzhal,descriptive,water,Madhavaram_Puzhal
+describe vegetation coverage in Madhavaram_Puzhal,descriptive,vegetation,Madhavaram_Puzhal
+show mask for vegetation in Madhavaram_Puzhal 2021,visualize,vegetation,Madhavaram_Puzhal
+temporal view of water in Madhavaram_Surapet 2018 to 2023,temporal_visualize,water,Madhavaram_Surapet
+show mask for water in Madhavaram_Surapet 2021,visualize,water,Madhavaram_Surapet
+visualize water coverage in Madhavaram_Surapet 2022,visualize,water,Madhavaram_Surapet
+describe water coverage in Madhavaram_Surapet,descriptive,water,Madhavaram_Surapet
+describe vegetation coverage in Madhavaram_Surapet,descriptive,vegetation,Madhavaram_Surapet
+show mask for vegetation in Madhavaram_Vadaperumbakkam 2021,visualize,vegetation,Madhavaram_Vadaperumbakkam
+compare vegetation in Madhavaram_Vadaperumbakkam between 2015 and 2020,analytical,vegetation,Madhavaram_Vadaperumbakkam
+what vegetation exists in Madhavaram_Vadaperumbakkam,descriptive,vegetation,Madhavaram_Vadaperumbakkam
+compare urban in Madhavaram_Vadaperumbakkam between 2015 and 2020,analytical,urban,Madhavaram_Vadaperumbakkam
+difference in water for Madhavaram_Vadaperumbakkam 2018 2023,analytical,water,Madhavaram_Vadaperumbakkam
+list water in Madhavaram_Villakupattu,descriptive,water,Madhavaram_Villakupattu
+show water cover of Madhavaram_Villakupattu from 2010 to 2015,temporal_visualize,water,Madhavaram_Villakupattu
+temporal view of water in Madhavaram_Villakupattu 2018 to 2023,temporal_visualize,water,Madhavaram_Villakupattu
+display water in Madhavaram_Villakupattu for 2020,visualize,water,Madhavaram_Villakupattu
+temporal view of water in Madhavaram_Villakupattu 2018 to 2023,temporal_visualize,water,Madhavaram_Villakupattu
+show mask for vegetation in Mylapore_Chintadripet 2021,visualize,vegetation,Mylapore_Chintadripet
+animate urban in Mylapore_Chintadripet from 2015 to 2020,temporal_visualize,urban,Mylapore_Chintadripet
+list urban in Mylapore_Chintadripet,descriptive,urban,Mylapore_Chintadripet
+show mask for water in Mylapore_Chintadripet 2021,visualize,water,Mylapore_Chintadripet
+difference in vegetation for Mylapore_Chintadripet 2018 2023,analytical,vegetation,Mylapore_Chintadripet
+list water in Mylapore_Mylapore_(Part_I),descriptive,water,Mylapore_Mylapore_(Part_I)
+animate water in Mylapore_Mylapore_(Part_I) from 2015 to 2020,temporal_visualize,water,Mylapore_Mylapore_(Part_I)
+temporal view of urban in Mylapore_Mylapore_(Part_I) 2018 to 2023,temporal_visualize,urban,Mylapore_Mylapore_(Part_I)
+urban change in Mylapore_Mylapore_(Part_I) 2020 2025,analytical,urban,Mylapore_Mylapore_(Part_I)
+water change in Mylapore_Mylapore_(Part_I) 2020 2025,analytical,water,Mylapore_Mylapore_(Part_I)
+list urban in Mylapore_Mylapore_(Part_II),descriptive,urban,Mylapore_Mylapore_(Part_II)
+temporal view of urban in Mylapore_Mylapore_(Part_II) 2018 to 2023,temporal_visualize,urban,Mylapore_Mylapore_(Part_II)
+show water cover of Mylapore_Mylapore_(Part_II) from 2010 to 2015,temporal_visualize,water,Mylapore_Mylapore_(Part_II)
+show urban cover of Mylapore_Mylapore_(Part_II) from 2010 to 2015,temporal_visualize,urban,Mylapore_Mylapore_(Part_II)
+show mask for water in Mylapore_Mylapore_(Part_II) 2021,visualize,water,Mylapore_Mylapore_(Part_II)
+visualize urban coverage in Mylapore_Triplicane_(Part_I) 2022,visualize,urban,Mylapore_Triplicane_(Part_I)
+animate water in Mylapore_Triplicane_(Part_I) from 2015 to 2020,temporal_visualize,water,Mylapore_Triplicane_(Part_I)
+show water cover of Mylapore_Triplicane_(Part_I) from 2010 to 2015,temporal_visualize,water,Mylapore_Triplicane_(Part_I)
+list water in Mylapore_Triplicane_(Part_I),descriptive,water,Mylapore_Triplicane_(Part_I)
+show vegetation cover of Mylapore_Triplicane_(Part_I) from 2010 to 2015,temporal_visualize,vegetation,Mylapore_Triplicane_(Part_I)
+display water in Mylapore_Triplicane_(Part_II) for 2020,visualize,water,Mylapore_Triplicane_(Part_II)
+show mask for urban in Mylapore_Triplicane_(Part_II) 2021,visualize,urban,Mylapore_Triplicane_(Part_II)
+animate water in Mylapore_Triplicane_(Part_II) from 2015 to 2020,temporal_visualize,water,Mylapore_Triplicane_(Part_II)
+animate urban in Mylapore_Triplicane_(Part_II) from 2015 to 2020,temporal_visualize,urban,Mylapore_Triplicane_(Part_II)
+visualize vegetation coverage in Mylapore_Triplicane_(Part_II) 2022,visualize,vegetation,Mylapore_Triplicane_(Part_II)
+difference in water for Perambur_Erukkencheri 2018 2023,analytical,water,Perambur_Erukkencheri
+describe urban coverage in Perambur_Erukkencheri,descriptive,urban,Perambur_Erukkencheri
+urban change in Perambur_Erukkencheri 2020 2025,analytical,urban,Perambur_Erukkencheri
+compare water in Perambur_Erukkencheri between 2015 and 2020,analytical,water,Perambur_Erukkencheri
+show mask for vegetation in Perambur_Erukkencheri 2021,visualize,vegetation,Perambur_Erukkencheri
+show mask for urban in Perambur_Jambuli 2021,visualize,urban,Perambur_Jambuli
+display urban in Perambur_Jambuli for 2020,visualize,urban,Perambur_Jambuli
+water change in Perambur_Jambuli 2020 2025,analytical,water,Perambur_Jambuli
+show water cover of Perambur_Jambuli from 2010 to 2015,temporal_visualize,water,Perambur_Jambuli
+animate water in Perambur_Jambuli from 2015 to 2020,temporal_visualize,water,Perambur_Jambuli
+list water in Perambur_Kodungaiyur,descriptive,water,Perambur_Kodungaiyur
+animate vegetation in Perambur_Kodungaiyur from 2015 to 2020,temporal_visualize,vegetation,Perambur_Kodungaiyur
+show mask for urban in Perambur_Kodungaiyur 2021,visualize,urban,Perambur_Kodungaiyur
+list vegetation in Perambur_Kodungaiyur,descriptive,vegetation,Perambur_Kodungaiyur
+vegetation change in Perambur_Kodungaiyur 2020 2025,analytical,vegetation,Perambur_Kodungaiyur
+visualize water coverage in Perambur_Perambur_(Part_I) 2022,visualize,water,Perambur_Perambur_(Part_I)
+what urban exists in Perambur_Perambur_(Part_I),descriptive,urban,Perambur_Perambur_(Part_I)
+vegetation change in Perambur_Perambur_(Part_I) 2020 2025,analytical,vegetation,Perambur_Perambur_(Part_I)
+what vegetation exists in Perambur_Perambur_(Part_I),descriptive,vegetation,Perambur_Perambur_(Part_I)
+list vegetation in Perambur_Perambur_(Part_I),descriptive,vegetation,Perambur_Perambur_(Part_I)
+difference in water for Perambur_Perambur_(Part_II) 2018 2023,analytical,water,Perambur_Perambur_(Part_II)
+list vegetation in Perambur_Perambur_(Part_II),descriptive,vegetation,Perambur_Perambur_(Part_II)
+water change in Perambur_Perambur_(Part_II) 2020 2025,analytical,water,Perambur_Perambur_(Part_II)
+describe water coverage in Perambur_Perambur_(Part_II),descriptive,water,Perambur_Perambur_(Part_II)
+temporal view of water in Perambur_Perambur_(Part_II) 2018 to 2023,temporal_visualize,water,Perambur_Perambur_(Part_II)
+display water in Perambur_Perambur_(Part_III) for 2020,visualize,water,Perambur_Perambur_(Part_III)
+show vegetation cover of Perambur_Perambur_(Part_III) from 2010 to 2015,temporal_visualize,vegetation,Perambur_Perambur_(Part_III)
+describe urban coverage in Perambur_Perambur_(Part_III),descriptive,urban,Perambur_Perambur_(Part_III)
+show water cover of Perambur_Perambur_(Part_III) from 2010 to 2015,temporal_visualize,water,Perambur_Perambur_(Part_III)
+list urban in Perambur_Perambur_(Part_III),descriptive,urban,Perambur_Perambur_(Part_III)
+compare vegetation in Perambur_Selvoyil between 2015 and 2020,analytical,vegetation,Perambur_Selvoyil
+animate urban in Perambur_Selvoyil from 2015 to 2020,temporal_visualize,urban,Perambur_Selvoyil
+difference in water for Perambur_Selvoyil 2018 2023,analytical,water,Perambur_Selvoyil
+difference in urban for Perambur_Selvoyil 2018 2023,analytical,urban,Perambur_Selvoyil
+show mask for vegetation in Perambur_Selvoyil 2021,visualize,vegetation,Perambur_Selvoyil
+visualize urban coverage in Perambur_Sembium 2022,visualize,urban,Perambur_Sembium
+show mask for water in Perambur_Sembium 2021,visualize,water,Perambur_Sembium
+temporal view of water in Perambur_Sembium 2018 to 2023,temporal_visualize,water,Perambur_Sembium
+list water in Perambur_Sembium,descriptive,water,Perambur_Sembium
+vegetation change in Perambur_Sembium 2020 2025,analytical,vegetation,Perambur_Sembium
+list water in Purasawalkam_Purasawalkam_(Part_I),descriptive,water,Purasawalkam_Purasawalkam_(Part_I)
+show water cover of Purasawalkam_Purasawalkam_(Part_I) from 2010 to 2015,temporal_visualize,water,Purasawalkam_Purasawalkam_(Part_I)
+what urban exists in Purasawalkam_Purasawalkam_(Part_I),descriptive,urban,Purasawalkam_Purasawalkam_(Part_I)
+display vegetation in Purasawalkam_Purasawalkam_(Part_I) for 2020,visualize,vegetation,Purasawalkam_Purasawalkam_(Part_I)
+show mask for urban in Purasawalkam_Purasawalkam_(Part_I) 2021,visualize,urban,Purasawalkam_Purasawalkam_(Part_I)
+show vegetation cover of Purasawalkam_Purasawalkam_(Part_II) from 2010 to 2015,temporal_visualize,vegetation,Purasawalkam_Purasawalkam_(Part_II)
+animate vegetation in Purasawalkam_Purasawalkam_(Part_II) from 2015 to 2020,temporal_visualize,vegetation,Purasawalkam_Purasawalkam_(Part_II)
+describe urban coverage in Purasawalkam_Purasawalkam_(Part_II),descriptive,urban,Purasawalkam_Purasawalkam_(Part_II)
+display water in Purasawalkam_Purasawalkam_(Part_II) for 2020,visualize,water,Purasawalkam_Purasawalkam_(Part_II)
+what urban exists in Purasawalkam_Purasawalkam_(Part_II),descriptive,urban,Purasawalkam_Purasawalkam_(Part_II)
+compare vegetation in Purasawalkam_V.O.C_Nagar between 2015 and 2020,analytical,vegetation,Purasawalkam_V.O.C_Nagar
+difference in vegetation for Purasawalkam_V.O.C_Nagar 2018 2023,analytical,vegetation,Purasawalkam_V.O.C_Nagar
+animate urban in Purasawalkam_V.O.C_Nagar from 2015 to 2020,temporal_visualize,urban,Purasawalkam_V.O.C_Nagar
+difference in vegetation for Purasawalkam_V.O.C_Nagar 2018 2023,analytical,vegetation,Purasawalkam_V.O.C_Nagar
+visualize vegetation coverage in Purasawalkam_V.O.C_Nagar 2022,visualize,vegetation,Purasawalkam_V.O.C_Nagar
+show water cover of Purasawalkam_Vepery from 2010 to 2015,temporal_visualize,water,Purasawalkam_Vepery
+water change in Purasawalkam_Vepery 2020 2025,analytical,water,Purasawalkam_Vepery
+display vegetation in Purasawalkam_Vepery for 2020,visualize,vegetation,Purasawalkam_Vepery
+describe water coverage in Purasawalkam_Vepery,descriptive,water,Purasawalkam_Vepery
+list urban in Purasawalkam_Vepery,descriptive,urban,Purasawalkam_Vepery
+describe urban coverage in Tiruvottiyur_Aamullaivayal,descriptive,urban,Tiruvottiyur_Aamullaivayal
+list urban in Tiruvottiyur_Aamullaivayal,descriptive,urban,Tiruvottiyur_Aamullaivayal
+temporal view of urban in Tiruvottiyur_Aamullaivayal 2018 to 2023,temporal_visualize,urban,Tiruvottiyur_Aamullaivayal
+animate water in Tiruvottiyur_Aamullaivayal from 2015 to 2020,temporal_visualize,water,Tiruvottiyur_Aamullaivayal
+list vegetation in Tiruvottiyur_Aamullaivayal,descriptive,vegetation,Tiruvottiyur_Aamullaivayal
+compare water in Tiruvottiyur_Ariyalur between 2015 and 2020,analytical,water,Tiruvottiyur_Ariyalur
+what water exists in Tiruvottiyur_Ariyalur,descriptive,water,Tiruvottiyur_Ariyalur
+display water in Tiruvottiyur_Ariyalur for 2020,visualize,water,Tiruvottiyur_Ariyalur
+compare vegetation in Tiruvottiyur_Ariyalur between 2015 and 2020,analytical,vegetation,Tiruvottiyur_Ariyalur
+show mask for vegetation in Tiruvottiyur_Ariyalur 2021,visualize,vegetation,Tiruvottiyur_Ariyalur
+animate vegetation in Tiruvottiyur_Chinna_Sekkadu from 2015 to 2020,temporal_visualize,vegetation,Tiruvottiyur_Chinna_Sekkadu
+what vegetation exists in Tiruvottiyur_Chinna_Sekkadu,descriptive,vegetation,Tiruvottiyur_Chinna_Sekkadu
+animate urban in Tiruvottiyur_Chinna_Sekkadu from 2015 to 2020,temporal_visualize,urban,Tiruvottiyur_Chinna_Sekkadu
+water change in Tiruvottiyur_Chinna_Sekkadu 2020 2025,analytical,water,Tiruvottiyur_Chinna_Sekkadu
+visualize water coverage in Tiruvottiyur_Chinna_Sekkadu 2022,visualize,water,Tiruvottiyur_Chinna_Sekkadu
+compare urban in Tiruvottiyur_Elandancherry between 2015 and 2020,analytical,urban,Tiruvottiyur_Elandancherry
+visualize vegetation coverage in Tiruvottiyur_Elandancherry 2022,visualize,vegetation,Tiruvottiyur_Elandancherry
+vegetation change in Tiruvottiyur_Elandancherry 2020 2025,analytical,vegetation,Tiruvottiyur_Elandancherry
+describe vegetation coverage in Tiruvottiyur_Elandancherry,descriptive,vegetation,Tiruvottiyur_Elandancherry
+visualize urban coverage in Tiruvottiyur_Elandancherry 2022,visualize,urban,Tiruvottiyur_Elandancherry
+show mask for vegetation in Tiruvottiyur_Ernavoor 2021,visualize,vegetation,Tiruvottiyur_Ernavoor
+difference in vegetation for Tiruvottiyur_Ernavoor 2018 2023,analytical,vegetation,Tiruvottiyur_Ernavoor
+list urban in Tiruvottiyur_Ernavoor,descriptive,urban,Tiruvottiyur_Ernavoor
+compare urban in Tiruvottiyur_Ernavoor between 2015 and 2020,analytical,urban,Tiruvottiyur_Ernavoor
+difference in urban for Tiruvottiyur_Ernavoor 2018 2023,analytical,urban,Tiruvottiyur_Ernavoor
+vegetation change in Tiruvottiyur_Kadapakkam 2020 2025,analytical,vegetation,Tiruvottiyur_Kadapakkam
+water change in Tiruvottiyur_Kadapakkam 2020 2025,analytical,water,Tiruvottiyur_Kadapakkam
+animate vegetation in Tiruvottiyur_Kadapakkam from 2015 to 2020,temporal_visualize,vegetation,Tiruvottiyur_Kadapakkam
+describe vegetation coverage in Tiruvottiyur_Kadapakkam,descriptive,vegetation,Tiruvottiyur_Kadapakkam
+show mask for vegetation in Tiruvottiyur_Kadapakkam 2021,visualize,vegetation,Tiruvottiyur_Kadapakkam
+urban change in Tiruvottiyur_Kathivakkam 2020 2025,analytical,urban,Tiruvottiyur_Kathivakkam
+show vegetation cover of Tiruvottiyur_Kathivakkam from 2010 to 2015,temporal_visualize,vegetation,Tiruvottiyur_Kathivakkam
+urban change in Tiruvottiyur_Kathivakkam 2020 2025,analytical,urban,Tiruvottiyur_Kathivakkam
+show mask for vegetation in Tiruvottiyur_Kathivakkam 2021,visualize,vegetation,Tiruvottiyur_Kathivakkam
+what water exists in Tiruvottiyur_Kathivakkam,descriptive,water,Tiruvottiyur_Kathivakkam
+what vegetation exists in Tiruvottiyur_Manali,descriptive,vegetation,Tiruvottiyur_Manali
+what urban exists in Tiruvottiyur_Manali,descriptive,urban,Tiruvottiyur_Manali
+list urban in Tiruvottiyur_Manali,descriptive,urban,Tiruvottiyur_Manali
+describe urban coverage in Tiruvottiyur_Manali,descriptive,urban,Tiruvottiyur_Manali
+temporal view of water in Tiruvottiyur_Manali 2018 to 2023,temporal_visualize,water,Tiruvottiyur_Manali
+difference in vegetation for Tiruvottiyur_Sadayankuppam 2018 2023,analytical,vegetation,Tiruvottiyur_Sadayankuppam
+animate urban in Tiruvottiyur_Sadayankuppam from 2015 to 2020,temporal_visualize,urban,Tiruvottiyur_Sadayankuppam
+describe vegetation coverage in Tiruvottiyur_Sadayankuppam,descriptive,vegetation,Tiruvottiyur_Sadayankuppam
+temporal view of vegetation in Tiruvottiyur_Sadayankuppam 2018 to 2023,temporal_visualize,vegetation,Tiruvottiyur_Sadayankuppam
+visualize urban coverage in Tiruvottiyur_Sadayankuppam 2022,visualize,urban,Tiruvottiyur_Sadayankuppam
+show water cover of Tiruvottiyur_Sathangadu from 2010 to 2015,temporal_visualize,water,Tiruvottiyur_Sathangadu
+difference in vegetation for Tiruvottiyur_Sathangadu 2018 2023,analytical,vegetation,Tiruvottiyur_Sathangadu
+visualize water coverage in Tiruvottiyur_Sathangadu 2022,visualize,water,Tiruvottiyur_Sathangadu
+display water in Tiruvottiyur_Sathangadu for 2020,visualize,water,Tiruvottiyur_Sathangadu
+visualize water coverage in Tiruvottiyur_Sathangadu 2022,visualize,water,Tiruvottiyur_Sathangadu
+show mask for water in Tiruvottiyur_Theyambakkam 2021,visualize,water,Tiruvottiyur_Theyambakkam
+compare vegetation in Tiruvottiyur_Theyambakkam between 2015 and 2020,analytical,vegetation,Tiruvottiyur_Theyambakkam
+what water exists in Tiruvottiyur_Theyambakkam,descriptive,water,Tiruvottiyur_Theyambakkam
+show mask for water in Tiruvottiyur_Theyambakkam 2021,visualize,water,Tiruvottiyur_Theyambakkam
+show mask for urban in Tiruvottiyur_Theyambakkam 2021,visualize,urban,Tiruvottiyur_Theyambakkam
+display water in Tiruvottiyur_Vaikkadu for 2020,visualize,water,Tiruvottiyur_Vaikkadu
+temporal view of urban in Tiruvottiyur_Vaikkadu 2018 to 2023,temporal_visualize,urban,Tiruvottiyur_Vaikkadu
+show water cover of Tiruvottiyur_Vaikkadu from 2010 to 2015,temporal_visualize,water,Tiruvottiyur_Vaikkadu
+temporal view of vegetation in Tiruvottiyur_Vaikkadu 2018 to 2023,temporal_visualize,vegetation,Tiruvottiyur_Vaikkadu
+describe water coverage in Tiruvottiyur_Vaikkadu,descriptive,water,Tiruvottiyur_Vaikkadu
+show urban cover of Tondiarpet_Tondiarpet_(Part_I) from 2010 to 2015,temporal_visualize,urban,Tondiarpet_Tondiarpet_(Part_I)
+list water in Tondiarpet_Tondiarpet_(Part_I),descriptive,water,Tondiarpet_Tondiarpet_(Part_I)
+what water exists in Tondiarpet_Tondiarpet_(Part_I),descriptive,water,Tondiarpet_Tondiarpet_(Part_I)
+list urban in Tondiarpet_Tondiarpet_(Part_I),descriptive,urban,Tondiarpet_Tondiarpet_(Part_I)
+display urban in Tondiarpet_Tondiarpet_(Part_I) for 2020,visualize,urban,Tondiarpet_Tondiarpet_(Part_I)
+vegetation change in Tondiarpet_Tondiarpet_(Part_II) 2020 2025,analytical,vegetation,Tondiarpet_Tondiarpet_(Part_II)
+difference in vegetation for Tondiarpet_Tondiarpet_(Part_II) 2018 2023,analytical,vegetation,Tondiarpet_Tondiarpet_(Part_II)
+animate vegetation in Tondiarpet_Tondiarpet_(Part_II) from 2015 to 2020,temporal_visualize,vegetation,Tondiarpet_Tondiarpet_(Part_II)
+visualize vegetation coverage in Tondiarpet_Tondiarpet_(Part_II) 2022,visualize,vegetation,Tondiarpet_Tondiarpet_(Part_II)
+show mask for urban in Tondiarpet_Tondiarpet_(Part_II) 2021,visualize,urban,Tondiarpet_Tondiarpet_(Part_II)
+compare water in Tondiarpet_Tondiarpet_(Part_III) between 2015 and 2020,analytical,water,Tondiarpet_Tondiarpet_(Part_III)
+describe vegetation coverage in Tondiarpet_Tondiarpet_(Part_III),descriptive,vegetation,Tondiarpet_Tondiarpet_(Part_III)
+what urban exists in Tondiarpet_Tondiarpet_(Part_III),descriptive,urban,Tondiarpet_Tondiarpet_(Part_III)
+display urban in Tondiarpet_Tondiarpet_(Part_III) for 2020,visualize,urban,Tondiarpet_Tondiarpet_(Part_III)
+animate urban in Tondiarpet_Tondiarpet_(Part_III) from 2015 to 2020,temporal_visualize,urban,Tondiarpet_Tondiarpet_(Part_III)
+animate vegetation in Tondiarpet_Tondiarpet_(Part_IV) from 2015 to 2020,temporal_visualize,vegetation,Tondiarpet_Tondiarpet_(Part_IV)
+animate vegetation in Tondiarpet_Tondiarpet_(Part_IV) from 2015 to 2020,temporal_visualize,vegetation,Tondiarpet_Tondiarpet_(Part_IV)
+animate water in Tondiarpet_Tondiarpet_(Part_IV) from 2015 to 2020,temporal_visualize,water,Tondiarpet_Tondiarpet_(Part_IV)
+what vegetation exists in Tondiarpet_Tondiarpet_(Part_IV),descriptive,vegetation,Tondiarpet_Tondiarpet_(Part_IV)
+compare vegetation in Tondiarpet_Tondiarpet_(Part_IV) between 2015 and 2020,analytical,vegetation,Tondiarpet_Tondiarpet_(Part_IV)
+list water in Velachery_Kalikundram,descriptive,water,Velachery_Kalikundram
+urban change in Velachery_Kalikundram 2020 2025,analytical,urban,Velachery_Kalikundram
+animate urban in Velachery_Kalikundram from 2015 to 2020,temporal_visualize,urban,Velachery_Kalikundram
+list water in Velachery_Kalikundram,descriptive,water,Velachery_Kalikundram
+describe vegetation coverage in Velachery_Kalikundram,descriptive,vegetation,Velachery_Kalikundram
+display urban in Velachery_Kanagam for 2020,visualize,urban,Velachery_Kanagam
+visualize urban coverage in Velachery_Kanagam 2022,visualize,urban,Velachery_Kanagam
+show vegetation cover of Velachery_Kanagam from 2010 to 2015,temporal_visualize,vegetation,Velachery_Kanagam
+difference in vegetation for Velachery_Kanagam 2018 2023,analytical,vegetation,Velachery_Kanagam
+show vegetation cover of Velachery_Kanagam from 2010 to 2015,temporal_visualize,vegetation,Velachery_Kanagam
+what water exists in Velachery_Pallipattu,descriptive,water,Velachery_Pallipattu
+difference in water for Velachery_Pallipattu 2018 2023,analytical,water,Velachery_Pallipattu
+temporal view of water in Velachery_Pallipattu 2018 to 2023,temporal_visualize,water,Velachery_Pallipattu
+temporal view of vegetation in Velachery_Pallipattu 2018 to 2023,temporal_visualize,vegetation,Velachery_Pallipattu
+describe vegetation coverage in Velachery_Pallipattu,descriptive,vegetation,Velachery_Pallipattu
+list water in Velachery_Taramani,descriptive,water,Velachery_Taramani
+animate vegetation in Velachery_Taramani from 2015 to 2020,temporal_visualize,vegetation,Velachery_Taramani
+what vegetation exists in Velachery_Taramani,descriptive,vegetation,Velachery_Taramani
+describe vegetation coverage in Velachery_Taramani,descriptive,vegetation,Velachery_Taramani
+compare water in Velachery_Taramani between 2015 and 2020,analytical,water,Velachery_Taramani
+describe urban coverage in Velachery_Thiruvanmiyur,descriptive,urban,Velachery_Thiruvanmiyur
+water change in Velachery_Thiruvanmiyur 2020 2025,analytical,water,Velachery_Thiruvanmiyur
+list water in Velachery_Thiruvanmiyur,descriptive,water,Velachery_Thiruvanmiyur
+visualize water coverage in Velachery_Thiruvanmiyur 2022,visualize,water,Velachery_Thiruvanmiyur
+compare urban in Velachery_Thiruvanmiyur between 2015 and 2020,analytical,urban,Velachery_Thiruvanmiyur
+temporal view of urban in Velachery_Urur 2018 to 2023,temporal_visualize,urban,Velachery_Urur
+difference in vegetation for Velachery_Urur 2018 2023,analytical,vegetation,Velachery_Urur
+visualize water coverage in Velachery_Urur 2022,visualize,water,Velachery_Urur
+list urban in Velachery_Urur,descriptive,urban,Velachery_Urur
+list urban in Velachery_Urur,descriptive,urban,Velachery_Urur
+difference in water for Velachery_Velachery_(Part_I) 2018 2023,analytical,water,Velachery_Velachery_(Part_I)
+display urban in Velachery_Velachery_(Part_I) for 2020,visualize,urban,Velachery_Velachery_(Part_I)
+show mask for water in Velachery_Velachery_(Part_I) 2021,visualize,water,Velachery_Velachery_(Part_I)
+what water exists in Velachery_Velachery_(Part_I),descriptive,water,Velachery_Velachery_(Part_I)
+list vegetation in Velachery_Velachery_(Part_I),descriptive,vegetation,Velachery_Velachery_(Part_I)
+water change in Velachery_Velachery_(Part_II) 2020 2025,analytical,water,Velachery_Velachery_(Part_II)
+visualize vegetation coverage in Velachery_Velachery_(Part_II) 2022,visualize,vegetation,Velachery_Velachery_(Part_II)
+compare urban in Velachery_Velachery_(Part_II) between 2015 and 2020,analytical,urban,Velachery_Velachery_(Part_II)
+show mask for water in Velachery_Velachery_(Part_II) 2021,visualize,water,Velachery_Velachery_(Part_II)
+temporal view of vegetation in Velachery_Velachery_(Part_II) 2018 to 2023,temporal_visualize,vegetation,Velachery_Velachery_(Part_II)
