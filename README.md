@@ -1,94 +1,114 @@
-# A Cross-modal Retrieval and Change Detection Framework for Location-Specific Remote Sensing Data
+# A Cross-Modal Retrieval and Change Detection Framework for Location-Specific Remote Sensing Data
 
-An AI-driven **multimodal remote-sensing system** that lets users retrieve satellite imagery using **natural-language queries** and performs **land-cover segmentation + temporal change detection** for location-specific analysis (Chennai taluks, 2014–2024).  [oai_citation:1‡final_external[1].pdf](sediment://file_0000000096047208b214654772b87c46)
+This repository presents an AI-driven **multimodal remote-sensing framework** that enables **natural-language–based retrieval of satellite imagery** and performs **semantic land-cover segmentation and temporal change detection** for location-specific analysis.
 
----
-
-## Project Abstract
-Traditional remote-sensing platforms often rely on structured metadata and manual filters. This project enables **natural-language-based retrieval** of satellite images and provides **analysis summaries**, including **segmentation overlays** (vegetation / water / urban) and **year-wise change detection** metrics.  [oai_citation:2‡final_external[1].pdf](sediment://file_0000000096047208b214654772b87c46)
+The system is evaluated on multi-year satellite imagery collected from Chennai taluks (2014–2024) and integrates state-of-the-art NLP and computer vision models to bridge the semantic gap between textual queries and visual remote-sensing data.
 
 ---
 
-## Key Features
-- **Natural language query interface** (e.g., “Vegetation in Guindy 2020”, “Urban growth Tambaram 2024”)  [oai_citation:3‡final_external[1].pdf](sediment://file_0000000096047208b214654772b87c46)
-- **Intent detection** using a fine-tuned **DistilBERT** classifier (visualization / temporal / comparison / descriptive)  [oai_citation:4‡final_external[1].pdf](sediment://file_0000000096047208b214654772b87c46)
-- **Cross-modal semantic retrieval** using **CLIP embeddings + FAISS** vector similarity search  [oai_citation:5‡final_external[1].pdf](sediment://file_0000000096047208b214654772b87c46)
-- **Semantic segmentation** with **DeepLabV3+** for land-cover extraction (vegetation, water, urban)  [oai_citation:6‡final_external[1].pdf](sediment://file_0000000096047208b214654772b87c46)
-- **Pixel-level change detection** (gain / loss / net change) with interpretable change maps  [oai_citation:7‡final_external[1].pdf](sediment://file_0000000096047208b214654772b87c46)
-- Interactive visualization layer (report mentions Streamlit-based interface)  [oai_citation:8‡final_external[1].pdf](sediment://file_0000000096047208b214654772b87c46)
+## Abstract
+
+Traditional remote-sensing platforms rely heavily on structured metadata and manual filtering, limiting accessibility for non-expert users. This project introduces a **cross-modal retrieval framework** that allows users to query satellite imagery using **natural language**, retrieve semantically relevant images, and perform **land-cover segmentation** and **pixel-level change detection** across years.
+
+The framework combines **transformer-based intent detection**, **vision–language embeddings**, **vector similarity search**, and **deep semantic segmentation**, producing interpretable visual outputs and quantitative change statistics.
 
 ---
 
-## System Architecture (High-level)
+## Key Contributions
+
+- Natural-language–based satellite image retrieval  
+- Cross-modal semantic alignment of text and imagery  
+- Automated land-cover segmentation (vegetation, water, urban)  
+- Year-wise pixel-level change detection and analysis  
+- Scalable and interpretable remote-sensing workflow  
+
+---
+
+## System Architecture (High-Level)
+
 1. **Query Understanding**
-   - DistilBERT intent classification
-   - Theme extraction (vegetation / water / urban)
-   - Year or year-range extraction
-   - Fuzzy location matching (token overlap / fuzzy similarity)
-2. **Cross-modal Retrieval**
-   - Encode query text → 512-d embedding (CLIP Text Encoder)
-   - Retrieve Top-K matching satellite images using **FAISS** (cosine similarity via inner product on normalized vectors)
+   - Intent classification using a fine-tuned transformer model
+   - Extraction of theme (vegetation / water / urban), location, and temporal constraints
+
+2. **Cross-Modal Retrieval**
+   - Text and image encoding using a shared embedding space
+   - Top-K semantic retrieval via vector similarity search
+
 3. **Image Analysis**
-   - Segment retrieved images using **DeepLabV3+**
-   - Generate theme masks and compute class coverage statistics
+   - Semantic segmentation of retrieved satellite images
+   - Computation of land-cover distribution statistics
+
 4. **Change Detection**
-   - Compare segmentation masks across years
-   - Generate binary change map and compute gain/loss/net change
-5. **Visualization + Summary**
-   - Display original images, overlays, change maps, and narrative summaries  [oai_citation:9‡final_external[1].pdf](sediment://file_0000000096047208b214654772b87c46)
+   - Binary differencing of segmentation masks across years
+   - Gain, loss, and net-change computation
+
+5. **Visualization and Summary**
+   - Overlay visualizations and interpretable analytical summaries
 
 ---
 
-## Dataset
-- **Region:** Chennai taluk (location-specific remote sensing dataset)
-- **Time span:** 2014–2024
-- **Total images:** 2,304 (≈192 per year)
-- **Image size:** 512 × 512
-- **Approx. resolution:** ≈ 30 m per pixel
-- **Themes:** Vegetation, Water, Urban (and mentions of Barren in dataset description)  [oai_citation:10‡final_external[1].pdf](sediment://file_0000000096047208b214654772b87c46)
+## Dataset Description
 
-**Source:** Satellite images collected from **Google Earth Pro** (multi-year).  [oai_citation:11‡final_external[1].pdf](sediment://file_0000000096047208b214654772b87c46)
+- **Geographic Region:** Chennai Taluks  
+- **Time Span:** 2014 – 2024  
+- **Total Images:** 2,304  
+- **Image Resolution:** 512 × 512 pixels  
+- **Spatial Resolution:** ~30 meters per pixel  
+- **Land-Cover Classes:** Vegetation, Water, Urban  
 
----
-
-## Models / Methods Used
-### 1) DistilBERT (Intent Detection)
-- Fine-tuned classifier to map user queries to supported intent types.
-- Chosen for lightweight inference + strong semantic understanding.  [oai_citation:12‡final_external[1].pdf](sediment://file_0000000096047208b214654772b87c46)
-
-### 2) CLIP (Cross-modal Embeddings)
-- Uses CLIP Text Encoder + Image Encoder to create aligned **512-dimensional embeddings**.
-- Enables semantic matching beyond exact metadata keywords.  [oai_citation:13‡final_external[1].pdf](sediment://file_0000000096047208b214654772b87c46)
-
-### 3) FAISS (Vector Retrieval)
-- FAISS index (IndexFlatIP) built over normalized image embeddings.
-- Fast Top-K similarity search using cosine similarity (via inner product).  [oai_citation:14‡final_external[1].pdf](sediment://file_0000000096047208b214654772b87c46)
-
-### 4) DeepLabV3+ (Semantic Segmentation)
-- Encoder–decoder architecture with ASPP for multi-scale context.
-- Used to segment three land-cover classes: vegetation, water, urban.  [oai_citation:15‡final_external[1].pdf](sediment://file_0000000096047208b214654772b87c46)
-
-### 5) Pixel-level Change Detection
-- Binary differencing of theme masks across years.
-- Computes %gain / %loss / net change and produces a change map.  [oai_citation:16‡final_external[1].pdf](sediment://file_0000000096047208b214654772b87c46)
+Satellite imagery was collected using multi-year observations from publicly available sources.
 
 ---
 
-## Results Snapshot (from report)
-- Retrieval speed: **Top-K under ~0.5s on CPU** and ~0.1s on GPU (reported)
-- Semantic retrieval accuracy reported higher than keyword baseline
-- Segmentation improved across training (accuracy mentioned ~0.69; mIoU improvements reported)  [oai_citation:17‡final_external[1].pdf](sediment://file_0000000096047208b214654772b87c46)
+## Models and Techniques Used
+
+### 1. Transformer-Based Intent Detection
+A fine-tuned lightweight transformer model is used to classify user queries into supported intent categories, enabling accurate query interpretation with low inference latency.
+
+### 2. Vision–Language Embeddings
+A joint text–image embedding model aligns satellite images and natural-language queries into a shared semantic space, enabling flexible semantic retrieval beyond keyword matching.
+
+### 3. Vector Similarity Search
+A high-performance vector index enables efficient Top-K similarity search over large-scale image embeddings using cosine similarity.
+
+### 4. Semantic Segmentation
+A deep encoder–decoder architecture with multi-scale context aggregation is employed to segment land-cover classes from satellite imagery.
+
+### 5. Temporal Change Detection
+Pixel-level differencing across segmentation masks enables quantification of land-cover gain, loss, and net change over time.
 
 ---
 
-## How to Run (Template)
-> Update the commands below to match your repo (file names / entry script).  
-> This section is intentionally written as a safe template because GitHub repos differ.
+## Results Summary
 
-### 1) Create environment & install dependencies
-```bash
-python -m venv .venv
-source .venv/bin/activate          # macOS/Linux
-# .venv\Scripts\activate           # Windows
+- Efficient semantic retrieval with low query latency  
+- Improved retrieval relevance compared to keyword-based baselines  
+- Consistent segmentation performance across land-cover classes  
+- Interpretable visualization of spatio-temporal changes  
 
-pip install -r requirements.txt
+---
+
+## Project Structure (Recommended)
+
+```text
+.
+├── app.py
+├── requirements.txt
+├── data/
+│   ├── 2014/
+│   ├── 2015/
+│   └── ...
+├── metadata/
+│   └── metadata.csv
+├── models/
+│   ├── intent_classifier/
+│   └── segmentation_model/
+├── index/
+│   └── vector.index
+├── scripts/
+│   ├── build_embeddings.py
+│   ├── build_index.py
+│   ├── segmentation.py
+│   └── change_detection.py
+└── README.md
+
