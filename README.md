@@ -24,29 +24,6 @@ The framework combines **transformer-based intent detection**, **vision–langua
 
 ---
 
-## System Architecture (High-Level)
-
-1. **Query Understanding**
-   - Intent classification using a fine-tuned transformer model
-   - Extraction of theme (vegetation / water / urban), location, and temporal constraints
-
-2. **Cross-Modal Retrieval**
-   - Text and image encoding using a shared embedding space
-   - Top-K semantic retrieval via vector similarity search
-
-3. **Image Analysis**
-   - Semantic segmentation of retrieved satellite images
-   - Computation of land-cover distribution statistics
-
-4. **Change Detection**
-   - Binary differencing of segmentation masks across years
-   - Gain, loss, and net-change computation
-
-5. **Visualization and Summary**
-   - Overlay visualizations and interpretable analytical summaries
-
----
-
 ## Dataset Description
 
 - **Geographic Region:** Chennai Taluks  
@@ -62,29 +39,20 @@ Satellite imagery was collected using multi-year observations from publicly avai
 
 ## Models and Techniques Used
 
-### 1. Transformer-Based Intent Detection
+### Transformer-Based Intent Detection
 A fine-tuned lightweight transformer model is used to classify user queries into supported intent categories, enabling accurate query interpretation with low inference latency.
 
-### 2. Vision–Language Embeddings
+### Vision–Language Embeddings
 A joint text–image embedding model aligns satellite images and natural-language queries into a shared semantic space, enabling flexible semantic retrieval beyond keyword matching.
 
-### 3. Vector Similarity Search
+### Vector Similarity Search
 A high-performance vector index enables efficient Top-K similarity search over large-scale image embeddings using cosine similarity.
 
-### 4. Semantic Segmentation
+### Semantic Segmentation
 A deep encoder–decoder architecture with multi-scale context aggregation is employed to segment land-cover classes from satellite imagery.
 
-### 5. Temporal Change Detection
+### Temporal Change Detection
 Pixel-level differencing across segmentation masks enables quantification of land-cover gain, loss, and net change over time.
-
----
-
-## Results Summary
-
-- Efficient semantic retrieval with low query latency  
-- Improved retrieval relevance compared to keyword-based baselines  
-- Consistent segmentation performance across land-cover classes  
-- Interpretable visualization of spatio-temporal changes  
 
 ---
 
